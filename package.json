@@ -1,0 +1,11 @@
+{
+  "name": "typescript_block",
+  "version": "1.0.0",
+  "description": "Typescript init blockchain",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js",
+    "prestart" : "npx tsc"
+  }
+}
